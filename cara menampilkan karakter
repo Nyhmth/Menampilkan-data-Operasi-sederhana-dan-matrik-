@@ -1,0 +1,6 @@
+kar_1='kalau orang lain bisa'
+kar_2='kenapa harus saya'
+print(kar_1+' '+kar_2)
+print(kar_1[0:10])
+karakter = 'kalau orang lain bisa kenapa harus saya'
+print(karakter.split())
